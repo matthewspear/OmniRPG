@@ -1,5 +1,8 @@
 # OFHabitRPG
 
+## Currently NOT WORKING
+
+
 Gain experience (on HabitRPG) for the tasks you have completed with OmniFocus.
 
 This is a very simple applescripts that counts the number of completed tasks within the last day,
