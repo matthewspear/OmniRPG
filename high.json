@@ -1,0 +1,12 @@
+{
+  "text": "high",
+  "challenge": {},
+  "attribute": "str",
+  "priority": 2,
+  "tags": {},
+  "notes": "This task was created by a third-party service. Feel free to edit, it won't harm the connection to that service. Additionally, multiple services may piggy-back off this task.",
+  "id": "high",
+  "down": false,
+  "up": true,
+  "type": "habit"
+}
