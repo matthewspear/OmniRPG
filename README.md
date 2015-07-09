@@ -1,6 +1,6 @@
 # OmniRPG - OmniFocus to HabitRPG
 
-OmniRPG is a simple AppleScripts that counts the number of tasks completed over the last day within [OmniFocus](https://www.omnigroup.com/omnifocus), then sends it to a set habit within [HabitRPG](https://habitrpg.com/). The script also tallies up completed tasks based on difficulty allowing for varing levels of reward.
+OmniRPG is a simple AppleScript that counts the number of tasks completed over the last day within [OmniFocus](https://www.omnigroup.com/omnifocus), then sends it to a set habit within [HabitRPG](https://habitrpg.com/). The script also tallies up completed tasks based on difficulty allowing for varying levels of reward.
 
 ## Setup
 The setup script (Setup.scpt) creates the three difficulty levels within [HabitRPG](https://habitrpg.com/). All you need to do is add your User ID and API Token to the dialog box when prompted. User ID and API Token which can be found [here](https://habitrpg.com/#/options/settings/api). Setup.scpt should only be ran once to avoid creating duplicate habits. 
