@@ -36,7 +36,7 @@ For easy access the script menu item (accessible within Script Editor Preference
 * Allow the user to set the triggers for context, project or note.
 * Working towards a system that syncs / marks tasks in OF to allow for the script to be triggered multiple times per day and catch all task since last trigger.
 * Option to turn off prompt all together and just write to log.
- 
+* Exceptions - to allow for a task to be ignored from within a special context
 
 
 -----
