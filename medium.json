@@ -1,11 +1,7 @@
 {
   "text": "medium",
-  "challenge": {},
-  "attribute": "str",
   "priority": 1.5,
-  "tags": {},
   "notes": "This task was created by a third-party service. Feel free to edit, it won't harm the connection to that service. Additionally, multiple services may piggy-back off this task.",
-  "id": "medium",
   "down": false,
   "up": true,
   "type": "habit"
